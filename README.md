@@ -1,2 +1,7 @@
-# Home-Library-Website
-HomeLibrary Project - Website
+# HomeLibrary Website & WebApplication
+
+### Instructions
+```
+npm install
+npm start
+```
